@@ -1,0 +1,12 @@
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Necessity.DoubleSq_R4_Core
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Necessity.DoubleSq_R4_Kernel_SA
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Necessity.DoubleSq_R4_Kernel_AA
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Necessity.DoubleSq_R4_Kernel_Decor
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Necessity.DoubleSq_R4_Kernel_StableHoleBridge
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Necessity.DoubleSq_R4_Profiles
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Necessity.DoubleSq_R4_KernelTheorems
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Necessity.DoubleSq_R4_Rows
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Necessity.DoubleSq_R4_Family
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Necessity.DoubleSq_R4_RootCells
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Necessity.DoubleSq_R4_RowsBridge
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Necessity.DoubleSq_R4_Legacy
