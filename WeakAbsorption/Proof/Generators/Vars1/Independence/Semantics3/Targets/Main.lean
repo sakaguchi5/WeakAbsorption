@@ -1,0 +1,11 @@
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics3.Targets.R4SnapshotData
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics3.Targets.R4RowProfileFamily
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics3.Targets.R4StateLabelCompression
+
+
+
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics3.Targets.R4LabelProfileRegime
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics3.Targets.R4AtomAudit
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics3.Targets.R4CompressedSnapshot
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics3.Targets.R4LabelCompressionLimit
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics3.Targets.R4CompressionSummary

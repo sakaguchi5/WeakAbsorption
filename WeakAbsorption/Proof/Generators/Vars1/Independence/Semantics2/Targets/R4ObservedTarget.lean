@@ -1,4 +1,4 @@
-import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics.Instances.R4.R4KernelObservedSpec
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics2.Targets.R4ObservedSnapshot
 
 /-!
 `Semantics2` における R4 の再現目標アンカー。
