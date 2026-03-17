@@ -9,3 +9,4 @@ import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics3.Targets.R4A
 import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics3.Targets.R4CompressedSnapshot
 import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics3.Targets.R4LabelCompressionLimit
 import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics3.Targets.R4CompressionSummary
+import WeakAbsorption.Proof.Generators.Vars1.Independence.Semantics3.Targets.R4RowShapeAudit
